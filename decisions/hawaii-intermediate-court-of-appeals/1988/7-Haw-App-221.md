@@ -1,0 +1,56 @@
+---
+court: "Hawaii Intermediate Court of Appeals"
+docket: "NO. 12394; FC-D NO. 85-0917"
+decided: "1988-02-25"
+citations: ["7 Haw. App. 221"]
+reporter: "haw-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURNS, C. J., HEEN AND TANAKA, JJ."]
+parties: ["WANDA Y. CHING, Plaintiff-Appellant, v. GERALD Y. F. CHING, Defendant-Appellee"]
+source_url: "https://static.case.law/haw-app/7/cases/0221-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5631221
+cites_cases: ["3 Haw. App. 175", "3 Haw. App. 501", "4 Haw. App. 652", "646 P.2d 969", "653 P.2d 1167", "673 P.2d 1044"]
+---
+
+# Ching v. Ching
+
+## Majority (BURNS, C. J.)
+
+OPINION OF THE COURT BY
+BURNS, C. J.
+Plaintiff Wanda Y. Ching (Mother) appeals the family court’s denial of her June 22, 1987 Hawaii Family Court Rules (HFCR) Rule 59 motion for reconsideration or a new trial. Mother actually filed her June 22, 1987 motion in response to the family court’s June 4, 1987 stipulated oral decree of divorce, but we review it as being in response to the family court’s October 1, 1987 Divorce Decree. With respect to spousal support and property division, we affirm. With respect to child support, we vacate the relevant portions of the October 1, 1987 Divorce Decree.
+Mother and defendant Gerald Y. F. Ching (Father) were married on August 27, 1972 and their daughter (Daughter) was born on January 24, 1982. The parties commenced living separately and apart on April 1, 1983 and Mother filed her complaint for divorce on March 13, 1985.
+The parties used the June 4, 1987 court time that had been set aside for their contested trial to settle the terms of their divorce and for an uncontested divorce hearing. At that hearing, the terms of their agreement were read into the record and orally approved by the parties, their respective counsel, and the family court. In relevant part, those terms were as follow: Physical custody of Daughter was awarded to Mother; Father was ordered to pay Mother child support of $350 per month for Daughter until the month in which Mother and Daughter relocated to California, at which time child support would increase to $700 per month; Child support was ordered to continue until Daughter “attains the age of 18 years or graduates from or discontinues high school, whichever occurs last”; Father was ordered to pay all of Daughter’s post-high school education expenses, including “tuition, fees, book expense, room and board, transportation, and a reasonable allowance . . . until her graduation with a bachelor’s degree or attainment of the age of 23 years, whichever occurs first”; and Father was ordered to pay Mother spousal support of $450 per month for 12 consecutive months.
+Thereafter, Mother hired a different counsel and on June 22, 1987 filed a motion under HFCR Rule 59 for reconsideration or a new trial on the grounds that 1) her former counsel failed to prepare her for trial; 2) child support is unjust and inequitable; and 3) property division and distribution is unjust and inequitable.
+The family court denied Mother’s June 22, 1987 motion on July 27, 1987, filed its Findings of Fact and Conclusions of Law on September 28, 1987, and filed its Divorce Decree on October 1, 1987.
+The standard of review of the family court’s denial of Mother’s June 22, 1987 HFCR Rule 59 motion is the abuse of discretion standard. Lusch v. Foster, 3 Haw. App. 175, 646 P.2d 969 (1982).
+With respect to those parts of the June 4, 1987 stipulated oral decree and the October 1, 1987 Divorce Decree that relate to spousal support and property division, we conclude that the family court did not abuse its discretion when it denied Mother’s June 22, 1987 motion. Since the material circumstances on the record adequately support the spousal support and property division parts of those decrees, the fact that the family court neglected to completely satisfy our admonition in footnote 3 of Davis v. Davis, 3 Haw. App. 501, 653 P.2d 1167 (1982), that “it is very important that the record contain the material circumstances which are before the court when it enters an order” is not a ground for setting aside the family court’s orders.
+With respect to the parts that relate to child support, however, the monthly child support agreed upon by the parties and their counsel in court on June 4, 1987 and ordered in the October 1, 1987 Divorce Decree is less than is specified in the October 20, 1986 Guidelines in Determining Child Support (Guidelines) promulgated by the Board of Family Court Judges pursuant to Hawaii Revised Statutes (HRS) § 576D-7 (Supp. 1986).
+HRS § 571-52.5 (Supp. 1986) provides that the family court shall use the Guidelines “except when exceptional circumstances warrant departure”. The question whether the circumstances constitute “exceptional circumstances” is a question of law. In this case, the family court in its Findings of Fact and Conclusions of Law stated in relevant part as follows:
+16. Said child support payments depart from the child support guidelines.
+17. Exceptional circumstances warrant a departure from the child support guidelines, those circumstances being the partiesf] agreeing to child support, the Defendant’s agreement to pay all post high school expenses including tuition fees, book expenses, room and board, transportation and a reasonable allowance which is a substantial financial commitment which Defendant was not obligated to provide.
+H* H» H*
+20. Defendant had agreed to accept the full responsibility for support and maintenance of the child and all post high school educational expenses.
+* *
+22. Plaintiffs counsel stated that the monthly child support deviated from the child support guidelines, but that the parties believed this to be a case warranting deviation from the guidelines because of the Defendant’s agreement to accept full responsiblity for all post high school educational expenses and costs.
+I.
+The first question is whether “the parties’ agreeing to child support,” is an exceptional circumstance. In situations where the parties agree to more child support than the Guidelines specify, our answer is yes. In situations where the parties agree to less child support than the Guidelines specify, our answer is no. Under HRS § 571-52.5 (Supp. 1986), the Guidelines do not take precedence over the parties’ agreement to pay more than the Guidelines specify, but they ¿o take precedence over the parties’ agreement to pay less.
+II.
+The second question is whether Father’s “agreement to pay all post high school expenses including tuition[,] fees, book expenses, room and board, transportation and a reasonable allowance” is an exceptional circumstance.
+More precisely stated, the question is whether a father’s agreement to pay all of his five-year-old daughter’s post-high school education expenses is an “exceptional circumstance” allowing the family court to order the father to pay less monthly child support for his five-year-old daughter than is specified in the Guidelines. Our answer is no.
+First, the provisions of the October 1, 1987 Divorce Decree relating to Daughter’s post-high school education expenses are ambiguous in that they do not specify whose choices can cause the expenses which the decree orders Father to pay. Therefore, we do not know how much potential liability has been imposed on Father.
+Second, Daughter may not incur any post-high school education expenses.
+Third, the provisions of the October 1, 1987 Divorce Decree relating to Daughter’s post-high school education expenses are always subject to change upon a substantial and material change in the circumstances of either party. HRS § 580-47(d). If Father becomes impecunious, his promises and obligations in 1987 when Daughter is five years of age will not be enforceable in 2000 after Daughter is 18 years of age. Thus, Father may not actually pay for Daughter’s post-high school education expenses.
+Fourth, in divorce cases, the family court is always authorized to order both parties to provide for the support, maintenance and education of their adult children where it is just and equitable to enter such an order. HRS § 580-47(a), (c) (1985). The family court’s unconditional statement that Father “was not obligated to provide” for Daughter’s post-high school education expenses absent his voluntary agreement is wrong.
+Consequently, what really happened is that the October 1, 1987 Divorce Decree required Father to assume Mother’s co-duty to support, maintain and educate Daughter after Daughter is age 18 and finishes high school and before she is age 23. Thus, Daughter suffers the detriment of lower current monthly child support payments than are called for by the Guidelines in exchange for an illusory benefit. Such a trade is not an “exceptional circumstance” warranting departure from the Guidelines. See Mack v. Mack, 7 Haw. App. __ (No. 12085, January 29, 1988).
+Harold Chu, Diane K. Taira, and Jacqueline Kong on the briefs for plaintiff-appellant.
+Karen M. Radius (Radius & Lau of counsel) on the brief for defendant-appellee.
+We therefore conclude that, notwithstanding the parties’ agreement, the family court abused its discretion when it allowed Father to pay less monthly child support to Mother for Daughter than is specified in the Guidelines. Consequently, the family court also abused its discretion when it refused to reconsider its prior action.
+Accordingly, we vacate paragraphs 4(b) and 4(d) of the October 1, 1987 Divorce Decree and remand the issues decided therein for reconsideration in light of this opinion. In all other respects, we affirm.
+In relevant part Hawaii Revised Statutes (HRS) § 580-47(a) and (c) provides as follows:
+(a) Upon granting a divorce, . .. [provision may be made for the support, maintenance and education of an adult or minor child[.]
+(c) No order entered under the authority of subsection (a) of this section or entered thereafter revising so much of such an order as provides for the support, maintenance and education of the children of the parties shall impair the power of the court from time to time to revise its orders providing for the support, maintenance and education of the children of the parties upon a showing of a change in the circumstances of either party or any child of the parties since the entry of any prior order relating to such support, maintenance and education.
+Therefore, the family court’s jurisdiction over the parties with respect to the support, maintenance, and education of their children extends into the children’s adulthood.
+The family- court has jurisdiction to finally decide the parties’ child support, maintenance, and education obligations under the then existing circumstances. It does not have jurisdiction to finally decide the parties’ child support, maintenance, and education obligations thirteen years in the future. Wakayama v. Wakayama, 4 Haw. App. 652, 673 P.2d 1044 (1983). Consequently, the family court cannot finally decide that one or both of a five-year-old child’s parents will not be legally obligated to pay for the child’s support, education, and maintenance after the child is 18 years of age and has completed high school and before the child is age 23.
