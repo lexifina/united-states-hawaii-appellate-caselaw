@@ -1,0 +1,76 @@
+---
+court: "Hawaii Intermediate Court of Appeals"
+docket: "NO. 11111"
+decided: "1986-09-30"
+citations: ["6 Haw. App. 439"]
+reporter: "haw-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURNS, C.J., HEEN AND TANAKA, JJ."]
+parties: ["HIDEO MATSUSHITA, Plaintiff-Appellant, v. CONTAINER HOME SUPPLY, INC., a Washington corporation; HALEAKALA TRANSPORTATION AND WAREHOUSING, INC., a Hawaii corporation; and THOMAS THAYER, Defendants-Appellees, and PACIFIC CONTAINER SERVICES, INC., a Hawaii corporation; JOHN DOES 1-20; DOE CORPORATIONS 1-20, and DOE PARTNERSHIPS 1-20, Defendants, and CONTAINER HOME SUPPLY, INC., a Washington corporation, Third-Party Plaintiff-Appellee, v. HALEAKALA TRANSPORTATION AND WAREHOUSING, INC., a Hawaii corporation, and THOMAS THAYER, Third-Party Defendants-Appellees, and PACIFIC CONTAINER SERVICES, INC., Third-Party Defendant"]
+source_url: "https://static.case.law/haw-app/6/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5630168
+cites_cases: ["103 S. Ct. 3114", "11 Haw. 416", "1984 Haw. Sess. Laws 67", "25 Haw. 205", "3 Haw. App. 589", "4 Haw. App. 552", "434 U.S. 1040", "456 P.2d 222", "462 U.S. 1133", "51 Haw. 242", "521 F. Supp. 568", "54 L. Ed. 2d 790", "559 F.2d 488", "608 P.2d 383", "61 Haw. 572", "635 F.2d 1165", "655 P.2d 891", "657 P.2d 1004", "66 Haw. 32", "66 Haw. 389", "66 Haw. 675", "665 P.2d 157", "670 P.2d 459", "693 F.2d 84", "706 P.2d 16", "722 P.2d 1028", "77 L. Ed. 2d 1368", "98 S. Ct. 782"]
+---
+
+# Matsushita v. Container Home Supply, Inc.
+
+## Majority (TANAKA, J.)
+
+OPINION OF THE COURT BY
+TANAKA, J.
+This appeal involves the construction of Hawaii Revised Statutes (HRS) § 294-36(b), which on July 28, 1979, the date of the accident in this case, read as follows:
+§ 294-36 Statute of limitations.
+* * *
+(b) No suit arising out of a motor vehicle accident shall be brought in tort more than:
+(1) Two years after the date of the motor vehicle accident upon which the claim is based; or
+(2) Two years after the date of the last payment of no-fault or optional additional benefits; whichever is the later.
+Plaintiff-appellant Hideo Matsushita (Matsushita) argues HRS § 294-36(b)(2) means exactly what it says and does not require that payment of no-fault or optional additional benefits commence within two years after the date of the accident as contended by defendants-appellees Haleakala Transportation and Warehousing, Inc. (Haleakala) and Thomas Thayer (Thayer) (collectively Appellees). We agree with Matsushita and reverse.
+I.
+On July 28, 1979, Haleakala delivered construction materials loaded on a trailer to Thayer’s lot in Kula, Maui. While assisting Thayer in unloading the trailer, Matsushita allegedly was injured when construction material fell from the trailer upon him.
+On June 27, 1980, Matsushita sued defendant Container Home Supply, Inc. (Container) alleging that Container had “negligently packaged, shipped, distributed, and sold” the construction materials. On November 3, 1981, Matsushita filed an amended complaint naming Haleakala and Thayer as additional defendants.
+On September 15, 1982, Judge James H. Wakatsuki entered an “Order Granting Motion for Summary Judgment” which stated in part:
+The Court finds that Section 294-36, Hawaii Revised Statutes is applicable, and further finds that there being no payments of no-fault or optional benefits benefits [sic];
+IT IS HEREBY ORDERED, ADJUDGED AND DECREED that Defendant [sic] THOMAS THAYER and HALEAKALA TRANSPORTATION AND WAREHOUSING, INC.’s Motions for Summary Judgment be and are hereby granted.
+In the interim, in 1981, on the ground that the trailer involved in the accident was a “motor vehicle” within the meaning of HRS § 294-2(8), Matsushita sought no-fault benefits from Haleakala’s insurer, First Insurance Company of Hawaii, Inc. (First Insurance). First Insurance denied him such benefits, and the insurance commissioner’s decision was in favor of the insurer. Upon Matsushita’s appeal to the circuit court in Civil No. 70849, the court entered a judgment on September 7, 1982, reversing the commissioner and holding that Matsushita was entitled to no-fault benefits. By its memorandum opinion of October 3, 1983, the supreme court affirmed. Matsushita v. First Insurance Co. of Hawaii, 66 Haw. 675 (1983).
+On December 14, 1983, Matsushita settled the case against Container. Relying on the final judgment in Civil No. 70849 Matsushita, on January 17, 1984, moved for reconsideration of Judge Wakatsuki’s September 15, 1982 order granting summary judgment to Haleakala and Thayer (1982 Order). On February 13, 1984, Judge Philip T. Chun denied the motion.
+Thereafter, the case remained dormant for nearly a year. On January 10, 1985, Matsushita filed Civil No. 85-0015(1) in the Second Circuit Court against Haleakala and Thayer alleging claims arising from the same July 28, 1979 accident. At the September 10, 1985 hearing on Thayer’s motion to strike the statement of readiness in Civil No. 85-0015(1), Second Circuit Judge E. John McConnell suggested that Matsushita file another motion for reconsideration in the instant case.
+On October 2, 1985, following Judge McConnell’s suggestion, Matsushita filed his second motion for reconsideration of the 1982 Order pursuant to Rule 60(b), Hawaii Rules of Civil Procedure (HRCP) (1981). An accompanying memorandum stated that on “April 18, 1984, [Matsushita] received no-fault benefits in excess of the threashold [sic] as provided in Haw. Rev. Stat. Chapter 294.” Judge Chun again denied the motion, and Matsushita appealed.
+II.
+In Wong v. City & County, 66 Haw. 389, 395, 665 P.2d 157, 162 (1983), the supreme court cautioned that “[a] judge should generally be hesitant to modify, vacate or overrule a prior interlocutory order of another judge who sits in the same court.” Although the order denying Matsushita’s October 2, 1985 motion for reconsideration (second motion) does not specify the reason for the denial, Matsushita’s opening brief speculates Wong may have deterred Judge Chun from reconsidering Judge Wakatsuki’s 1982 Order.
+Wong does not preclude the modification of a prior ruling of another court of equal and concurrent jurisdiction in all instances. Modification will not be an abuse of discretion if “cogent reasons support the second court’s action.” Id. 66 Haw. at 396, 665 P.2d at 162 (emphasis in original). See also Gallimore v. Missouri Pacific Railroad Co., 635 F.2d 1165 (5th Cir. 1981); Greyhound Computer Corp., Inc. v. International Business Machines Corp., 559 F.2d 488 (9th Cir. 1977), cert. denied, 434 U.S. 1040, 98 S. Ct. 782, 54 L. Ed. 2d 790 (1978); In re Airport Car Rental Antitrust Litigation, 521 F. Supp. 568 (N.D. Cal. 1981), aff’d, 693 F.2d 84 (9th Cir. 1982), cert. denied sub nom., Budget Rent-A-Car of Washington-Oregon, Inc. v. Hertz Corp., 462 U.S. 1133, 103 S. Ct. 3114, 77 L. Ed. 2d 1368 (1983).
+Here, after a lengthy delay, Haleakala’s insurer paid no-fault benefits to Matsushita on April 18, 1984. This fact, disclosed in Matsushita’s second motion, constituted a “cogent reason” to permit Judge Chun to modify the 1982 Order if the law supported such action.
+III.
+Thayer construes HRS § 294-36(b) to mean that (1) the two-year statute of limitations begins to run from the date of a motor vehicle accident and (2) the running of the statute will be tolled and a new two-year period retriggered only if, within the two-year period from the date of the accident, “payments for no-fault benefits or optional additional benefits [are] made[.]” Haleakala then argues that (1) the statutory language is ambiguous since it is “susceptible to more than one interpretation” and (2) legislative intent favors Thayer’s construction. We do not agree with Appellees.
+An elementary statutory construction precept is “that ‘where the language of the law in question is plain and unambiguous, construction by [the] court is inappropriate and [the court’s] duty is only to give effect to the law according to its plain and obvious meaning.’ ” Strouss v. Simmons, 66 Haw. 32, 50, 657 P.2d 1004, 1016 (1982) (quoting In re Hawaiian Telephone Company, 61 Haw. 572, 577-78, 608 P.2d 383, 387 (1980)). And we have stated that “the rule which allows departure from a literal construction of an unambiguous statute should be applied only in special or egregious situations.” Mabe v. Real Estate Commission, 4 Haw. App. 552, 554, 670 P.2d 459, 461 (1983).
+In our view, the language of HRS § 294-36(b) is plain and unambiguous. It clearly provides that the limitations period is the later of (I) two years after the date of the accident or (2) two years after the date of the last payment of no-fault or optional additional benefits. HRS § 294-36(b)(2) contains no requirement that the payment of no-fault or optional additional payments must commence within the two-year period. We find no special or egregious situation requiring departure from a literal construction of HRS § 294-36(b).
+Appellees assert that the case of Wiegand v. Allstate Insurance Companies, 68 Haw. __, 706 P.2d 16 (1985), requires the statutory construction they urge upon us. However, Wiegand involved the construction of HRS § 294-36(a) and the word “suit” therein being susceptible to more than one interpretation rendered the statutory language ambiguous. Here, HRS § 294-36(b) is unambiguous. Moreover, in Wiegand, the choice of initiating an arbitration proceeding was in the hands of the injured, while here, the power of paying or withholding payments of no-fault benefits remained with the insurer.
+We also note that the recent case of Parker v. Nakaoka, 68 Haw. __, 722 P.2d 1028 (1986), holds that “meeting the threshold requirement is an essential condition and element of [plaintiffs] cause of action.” Id. at __, 722 P.2d at 1031. If Appellees’statutory construction is correct and the insurer withholds payment of no-fault benefits for more than two years from the date of the accident, the injured person will be unfairly denied the right of a tort claim because of his inability to meet the threshold requirement within the two-year period. We cannot believe that the legislature intended this result.
+We hold that the two-year statute of limitations began to run on April 18, 1984, the date of last payment of no-fault benefits to Matsushita. Consequently, we conclude that the lower court abused its discretion in denying the second motion for reconsideration of the 1982 Order made pursuant to Rule 60(b), HRCP. Judge Chun should have granted the second motion and modified the 1982 Order by denying Appellees’ motion for summary judgment.
+IV.
+We will sua sponte discuss the pending Second Circuit Civil No. 85-0015(1). In his “Statement of Related Proceedings” Matsushita states that in Civil No. 85-0015(1), he “seeks damages sustained as a result of the negligence of Haleakala and Thayer in respect to the same incident which gives rise to this appeal.”
+Our supreme court has stated that “where the party is the same in a pending suit, and the cause is the same and the relief is the same, a good plea in abatement lies.” Shelton Engineering Contractors, Ltd. v. Hawaiian Pacific Industries, Inc., 51 Haw. 242, 249, 456 P.2d 222, 226 1969). See also Yee Hop v. Nakuina, 25 Haw. 205 (1919); Oahu Lumber & Building Co. v. Ah Yok, 11 Haw. 416 (1898). The common law plea in abatement has been abolished by Rule 7(c), HRCP (1981). However, abatement as a defense may be raised by a motion for dismissal. See, Shelton Engineering Contractors, Ltd., supra.
+Lawrence L. Tong (Richard E. St if el, Ronald G.S. Au, and Connie G. W. Meredith with him on the briefs; Wayne H. Muraoka also with him on the reply brief; Goodsill Anderson Quinn & Stifel, of counsel) for plaintiff-appellant.
+Archibald C.K. Kaolulo (Walter Davis and Alan K. Niion the brief; Davis, Reid & Richards, of counsel) for defendant-appellee and third-party defendant-appellee Haleakala Transportation and Warehousing, Inc.
+Randall Y. Yamamoto (James Kawashima and John T. Komeiji with him on the brief; Kobayashi, Watanabe, Sugita & Kawashima, of counsel) for defendant-appellee and third-party defendant-appellee Thomas Thayer.
+Upon remand of this case, we direct that Matsushita dismiss Civil No. 85-0015(1) and proceed with this case.
+Reversed and remanded for further proceedings consistent with this opinion.
+Hawaii Revised Statutes (HRS) § 294-36(b) was amended in 1984 by Act 28, § 1, 1984 Haw. Sess. Laws 67, and now reads:
+(b) No suit arising out of a motor vehicle accident shall be brought in tort more than:
+(1) Two years after the date of the motor vehicle accident upon which the claim is based; or
+(2) Two years after the date of the last payment of no-fault or optional additional benefits; or
+(3) Two years after the date of the last payment of workers’ compensation or public assistance benefits arising from the motor vehicle accident; whichever is the last to occur.
+The complaint was filed in the Second Circuit Court as Civil No. 4743. After Judges Kase Higa, Arthur T. Ueoka, and Richard R. ¡Como disqualified themselves, pursuant to the “Order for Change of Venue” filed on May 22, 1982, the case was transferred to the First Circuit Court and designated as Civil No. 71671.
+The amended complaint also named Pacific Container Services, Inc. as an additional defendant. However, it was dismissed from the case and is not involved in this appeal.
+At the time of the accident in this case, HRS § 294-2(8) provided:
+“M otor vehicle” means any vehicle of a type required to be registered under chapter 286, including a vehicle of a type with less than four wheels or a trailer.
+HRS § 294-2(8) (1985) now reads:
+“Motor vehicle" means any vehicle of a type required to be registered under chapter 286, including a trailer attached to such a vehicle, but not including motorcycles and motor scooters.
+Under HRS § 294-31.5 (1985), an administrative hearing is available to a claimant who objects to the denial of no-fault benefits by an insurer.
+Container Home Supply, Inc. remains in the case as a “nominal defendant for the sole purpose of apportionment of liability or damages pursuant to the joint tortfeasor statute[.]” It is not involved in this appeal.
+On September 7, 1983, Judge Wakatsuki had become an associate justice of the Hawaii Supreme Court and was no longer involved with the case.
+On a temporary remand of the case to the circuit court, an appellate jurisdictional defect was cured by a nunc pro tunc Rule 54(b), Hawaii Rules of Civil Procedure certification.
+At the hearing of the October 2, 1985 motion for reconsideration, Judge Philip T. Chun asked, “You are asking this Court to reconsider an order granted by another Circuit Court Judge?” Transcript of October 23, 1985 Hearing at 2.
+See HRS § 294-6(1985) and Parker v. Nakaoka, 68 Haw. __, 722 P.2d 1028 (1986).
+We deem the second motion for reconsideration to be a Rule 60( b)(6), Hawaii Rules of Civil Procedure (HRCP), motion. The appellate standard of review of a denial of a Rule 60(b)(6) motion is the abuse of discretion test. First Trust Co. of Hilo, Ltd. v. Reinhardt, 3 Haw. App. 589, 655 P.2d 891 (1982).
