@@ -1,0 +1,81 @@
+---
+court: "Hawaii Intermediate Court of Appeals"
+docket: "NO. 12920; FC-D NO. 87-2405"
+decided: "1988-11-21"
+citations: ["7 Haw. App. 345"]
+reporter: "haw-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURNS, C. J., HEEN AND TANAKA, JJ."]
+parties: ["ROY ROSARIO TOMAS, Plaintiff-Appellee, v. GINA LOUISE TOMAS, Defendant-Appellant"]
+source_url: "https://static.case.law/haw-app/7/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5630271
+cites_cases: ["3 Haw. App. 501", "5 Haw. App. 360", "653 P.2d 1167", "693 P.2d 412", "749 P.2d 478", "751 P.2d 93"]
+---
+
+# Tomas v. Tomas
+
+## Majority (BURNS, C. J.)
+
+OPINION OF THE COURT BY
+BURNS, C. J.
+Defendant Gina Louise Tomas (Mother) appeals the family court’s February 23, 1988 Decree Granting Absolute Divorce and Awarding Child Custody. Mother contends that the court reversibly erred when it reduced the child support obligation of Plaintiff Roy Rosario Tomas (Father) from $350 to $200 per month during the eight-week period each summer when the children are visiting Father and when it did not require Father to enroll the children in Father’s medical and dental insurance plan.
+We vacate item 4(a) of the February 23, 1988 decree which reads: “During the eight-week period in the summer when the children are visiting the Plaintiff, Plaintiff shall be required to pay to Defendant the sum of $200.00 per month for child support.” We affirm in all other respects.
+Mother and Father have two minor children. The male child was born on November 15, 1980. The female child was born on October 25, 1985. The children reside with Mother in Pennsylvania where the three of them are recipients of public assistance benefits. Father resides in Hawaii.
+Father filed his complaint for divorce on July 20, 1987. The trial was held in January 1988. At the conclusion of the trial, the family court orally awarded custody of the children to Mother and awarded Father visitation rights of eight weeks each summer and alternate Christmas vacations.
+Under the July 8, 1987 Guidelines Determining Child Support (child support guidelines), promulgated by the family court as mandated by Hawaii Revised Statutes (HRS) § 576D (Supp. 1987), Father’s total monthly child support obligation for the children was $350 per month. Father argued that 1) since all child support paid by him would be received by Pennsylvania, and not by Mother or the children, he should not be required to pay more than a nominal amount; 2) based on the length of time the children would be visiting with him, his child support obligation should be reduced; and 3) his visitation expenses should be credited against his child support obligation. The family court orally ordered that the cost of the children’s visitation transportation expenses from Pennsylvania to Hawaii and back shall be borne equally by the parties and that child support during the eight-week summer visitation period shall be reduced to $200 per month.
+Following the oral decision, Mother, on January 28, 1988, filed a Hawaii Family Court Rule 59 motion for reconsideration, asking the court to order Father 1) to pay monthly child support of $350 per month without reduction during the eight-week summer visitation period; and 2) to provide the children with medical and dental insurance coverage available to him through his employer. At the hearing on the motion, Father argued against the medical and dental insurance requirement on the grounds that 1) the children were already medically and dentally covered by public assistance; and 2) administrative problems might result when a Pennsylvania provider submitted claims to a Hawaii insurer.
+The February 23, 1988 divorce decree does not require Father to purchase medical and dental insurance coverage available to him through his employer for the children. It provides in relevant part: IT IS HEREBY ORDERED, ADJUDGED AND DECREED that:
+* * *
+[2.] [Father] shall have visitation with the minor children for eight continuous weeks each summer, commencing one week after school adjourns. [Father] shall have visitation with the children during their Christmas vacation period during alternate years, commencing with Christmas vacation in 1989. * * * The Christmas visitation period shall commence on the first Saturday after school has adjourned for the Christmas break and shall terminate on the Saturday before school resumes in January of the following year. The cost of the children’s transportation to and from the State of Hawaii shall be born equally by the parties.
+* * *
+4. Other matters covered by this decree are as follows:
+(a) CHILD SUPPORT: [Father] shall pay to [Mother] the sum of $350.00 per month for the support, maintenance and education of the minor children of the parties, commencing on February 15, 1988[.] * * * During the eight-week period in the summer when the children are visiting the [Father], [Father] shall be required to pay to [Mother] the sum of $200.00 per month for child support.
+The issues and our answers are as follows:
+1-A. Under HRS § 571-52.5 (Supp. 1987), is the question whether a fact or a combination of facts constitute exceptional circumstances warranting departure from the guidelines established under HRS § 576D-7 a question of fact or a question of law? It is a question of law.
+1-B. Is the fact that the father is entitled to an eight-week summer visitation period an exceptional circumstance warranting a departure from the July 8, 1987 guidelines? No.
+1-C. Is the fact that the father is liable for one-half of the children’s visitation transportation expenses from Pennsylvania to Hawaii and back an exceptional circumstance warranting a departure from the July 8, 1987 guidelines? No.
+1-D. Is the fact that the mother and the children are recipients of public assistance benefits in Pennsylvania an exceptional circumstance warranting a departure from the July 8, 1987 guidelines? No.
+1-E. Is there any fact or combination of facts in the record that constitute exceptional circumstances warranting a departure from the guidelines? No.
+2. Does the record show that the family court violated HRS § 571-52.6 (Supp. 1987)? No.
+3. Does the record show that the family court violated HRS § 571-52.6 (Supp. 1987) when it did not require the father to provide dental insurance coverage for the children? No.
+1-A.
+HRS § 571-52.5 provides: “When the court establishes or modifies the amount of child support required to be paid by a parent, the court shall use the guidelines established under section 576D-7, except when exceptional circumstances warrant departure.”
+Under HRS § 571-52.5, the question whether the facts as found by the family court constitute exceptional circumstances warranting a departure from the guidelines established under HRS § 576D-7 is a question of law. Ching v. Ching, 7 Haw. App. __, 751 P.2d 93 (1988); Mack v. Mack, 7 Haw. App. __, 749 P.2d 478 (1988). The family court’s answer to this question is a conclusion of law that is subject to the right/wrong or de novo standard of appellate review. Hilo Crane Service, Inc. v. Ho, 5 Haw. App. 360, 693 P.2d 412 (1984); Davis v. Davis, 3 Haw. App. 501, 653 P.2d 1167 (1982).
+1-B.
+The July 8, 1987 child support guidelines provide in relevant part:
+NORMAL VISITATION:
+This formula contemplates “normal” visitation arrangements (i.e. up to 100 days/year). Where a parent establishes visitation or has physical custody significantly beyond the norm, then some adjustment in the amount derived from a formula calculation may result. This adjustment is allowable regardless of how the custodial arrangements are titled.
+Consequently, the eight-week summer visitation period in this case is a normal visitation arrangement which is not an exceptional circumstance warranting a departure from the guidelines.
+1-C.
+The family court ordered Mother to pay one-half of the children’s visitation transportation expenses from Pennsylvania to Hawaii and back, thereby to that extent reducing the amount of child support available to her. Such a reduction is neither expressly permitted nor prohibited by the July 8, 1987 child support guidelines. We conclude, however, that Father’s liability for one-half of the children’s visitation transportation expenses from Pennsylvania to Hawaii and back is not an exceptional circumstance warranting departure from the guidelines.
+Additionally, if the family court’s order requiring Father to pay one-half of the children’s visitation transportation expenses is used as the basis for reducing his obligation to pay child support pursuant to the guidelines, then, to the extent of the reduction, Mother will be paying for more than one-half of the children’s visitation transportation expenses. This result is contrary to the family court’s express order requiring Father to pay one-half.
+1-D.
+Father argued in the family court that the fact that Mother and the children were recipients of public assistance benefits in Pennsylvania is an exceptional circumstance warranting a substantial departure from the guidelines. In other words, Father’s position is that the public’s support of Mother and the children in Pennsylvania satisfies Father’s duty to support his children. We disagree.
+The public policy of Hawaii is stated in HRS § 346-37.1 (1985) which provides in relevant part:
+Payment of public assistance for child constitutes debt to department by natural or adoptive parents, (a) Any payment of public assistance money made to or for the benefit of any dependent child or children creates a debt due and owing to the department by the natural or adoptive parent or parents who are responsible for support of such children in an amount equal to the amount of public assistance money so paid . . . (b), except that debts under this section shall not be incurred by nor at any time be collected from a parent or other person who is the recipient of public assistance moneys for the benefit of minor dependent children for the period such person or persons are in such status, and, provided that where there has been a family court order, the debt shall be limited to the amount provided for by the order.
+Under HRS § 346-37.1, Father is obligated to reimburse the public when they satisfy his duty to support his children. If, in consideration of the public’s support of Father’s children, the family court reduces Father’s obligation to pay child support, the public policy expressed in HRS § 346-37.1 will be frustrated. Therefore, the public’s support of Father’s children is not an exceptional circumstance warranting departure from the guidelines.
+1-E.
+The July 8, 1987 child support guidelines provide in relevant part: “Judges will make recorded oral or written findings of fact where exceptional circumstances supported by evidence in the record are deemed to warrant departure from the guidelines.” Hawaii Family Court Rule 52(a) provides as follows:
+In all actions tried in the family court, the court may find the facts and state its conclusions of law thereon or may announce or write and file its decision or “decision and order” and direct the entry of or enter the appropriate decree or order; except upon notice of appeal filed with the court, the court shall enter its findings of fact and conclusions of law where none has been entered, unless the written decision or “decision and order” of the court contains findings of fact and conclusions of law. To aid the court, the court may order the parties or either of them to submit proposed findings of fact and conclusions of law where the written decision or “decision and order” of the court does not contain findings of fact and conclusions of law within 10 days after the filing of the notice of appeal, unless such time is extended by the court. Requests for findings are not necessary for purposes of review. Findings of fact if entered shall not be set aside unless clearly erroneous, and due regard shall be given to the opportunity of the trial court to judge the credibility of the witnesses. The findings of a master, to the extent that the court adopts them, shall be considered as the findings of the court. If a decision or “decision and order” is filed, it will be sufficient if the findings of fact and conclusions of law appear therein. Findings of fact and conclusions of law are unnecessary on decisions of motions under Rule 12 or any other motion.
+The family court failed to comply with these requirements. However, there is no evidence in the record of a fact or combination of facts that constitute exceptional circumstances warranting a depárture from the guidelines.
+2.
+HRS § 571-52.6 provides: “Each order, judgment, or decree under this chapter or chapter 576, 580, or 584 ordering a person to pay child support shall include a provision concerning the liability of that person for accident and sickness insurance coverage when available at reasonable cost.”
+Father’s December 30, 1987 income and expense statement indicates that Father has “medical and dental plan coverage” through the Hawaii Medical Service Association (HMSA). Mother testified that Father’s insurance plan covers “medical, dental, drug and vision” expenses. The record does not reveal what it would cost Father to enroll the children in his HMSA medical plan. Consequently, the reasonableness of that cost has not been proven.
+When determining the reasonableness of that cost, it should be noted that under the July 8, 1987 child support guidelines, the calculation of a parent’s net income available for primary support; excludes from the parent’s gross income the cost of health insurance for the children. Consequently, whatever it costs Father to enroll the children in his HMSA plan would be excluded from his net income available for primary support and may reduce the amount of his child support obligation under the guidelines. The relevant cost is the net cost difference to Father between coverage and noncoverage.
+Aileen T. Chikasuye, Legal Aid Society of Hawaii, on the brief for defendant-appellant.
+Edgar R. Worth (Worth & Chun of counsel) for plaintiff-appellee (no brief filed).
+3.
+HRS § 571-52.6 may or may not cover dental insurance. Even if it does, however, the record does not reveal what Father’s net cost would be to enroll the children in his HMSA dental plan. Consequently, the reasonableness of that cost has not been proven.
+CONCLUSION
+Accordingly, we vacate item 4(a) of the February 23, 1988 decree which reads: “During the eight-week period in the summer when the children are visiting the Plaintiff, Plaintiff shall be required to pay to Defendant the sum of $200.00 per month for child support.” We affirm the decree in all other respects.
+HRS § 576D-2 reads as follows:
+Designation of child support enforcement agency; duties. There is created the child support enforcement agency for the State as required under Title IV-D. Until June 30, 1987, the agency shall be within the department of social services and housing. From July 1, 1987, the agency shall be within the department of the attorney general. The child support enforcement agency shall:
+(1) Be responsible for formulating the state child support enforcement plan as required under Title IV-D; and
+(2) Administer this chapter consistent with Title IV-D and applicable state laws.
+HRS § 576D-7(a) reads in relevant part as follows:
+Guidelines in establishing amount of child support, (a) The family court, in consultation with the agency, shall establish guidelines to establish the amount of child support when an order for support is sought or being enforced under this chapter. The guidelines shall be based on specific descriptive and numeric criteria and result in a computation of the support obligation.
+The February 1, 1988 child support guidelines provide in relevant part:
+Normal Visitation:
+A parent will be treated as the non-custodial parent even though he/she has visitation or physical custody arrangements for up to 100 days a year. If a parent establishes visitation or has physical custody significantly beyond 100 days per year, then some adjustment in the amount derived from the guidelines may be appropriate. This adjustment is allowable regardless of how the custodial arrangements are titled.
