@@ -1,0 +1,77 @@
+---
+court: "Hawaii Intermediate Court of Appeals"
+docket: "NO. 12166; CIVIL NO. 84-1466"
+decided: "1988-03-23"
+citations: ["7 Haw. App. 502"]
+reporter: "haw-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURNS, C.J., HEEN AND TANAKA, JJ."]
+parties: ["JOHN P. WILDER, Plaintiff-Appellant, v. HARRY TANOUYE, Unit Team Manager, Defendant-Appellee"]
+source_url: "https://static.case.law/haw-app/7/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5630715
+cites_cases: ["3 Haw. App. 624", "416 U.S. 396", "417 U.S. 817", "42 U.S.C. § 1983", "434 U.S. 555", "446 U.S. 635", "457 U.S. 800", "5 Haw. App. 1", "542 F.2d 1", "6 Haw. App. 397", "616 P.2d 201", "62 Haw. 391", "649 P.2d 1144", "65 Haw. 226", "656 P.2d 1353", "675 P.2d 803", "689 F.2d 702", "694 F.2d 50", "721 P.2d 165", "753 F.2d 498", "757 F.2d 1155", "792 F.2d 1404"]
+---
+
+# Wilder v. Tanouye
+
+## Majority (TANAKA, J.)
+
+OPINION OF THE COURT BY
+TANAKA, J.
+This is an appeal by plaintiff John P. Wilder (Wilder) from a summary judgment in favor of defendant Harry Tanouye (Tanouye), a unit team manager at the Oahu Community Correctional Center (OCCC). Because the record discloses that there are genuine issues of material fact, we vacate the judgment and remand the case.
+FACTS
+On August 9, 1984, Wilder was transferred from the OCCC holding unit to module 3 under the supervision of Tanouye. The transfer was on a three-month probationary basis conditioned on, inter alia, Wilder’s “cooperation with staff — especially in remedying complaints informally by open communication with staff.” Record at 165.
+On October 9, 1984, Wilder wrote a letter to Hawaii’s then United States Congressman Cecil Heftel complaining of conditions at the OCCC. On October 31, 1984, Tanouye informed Wilder that the letter he had written to Congressman Heftel “appeared to be a breach” of the probation condition Wilder had agreed to. Id. at 163. According to Wilder, Tanouye told him on that occasion that “writing elected officials was a demonstration of disruptive ‘passive aggressiveness.’ ” Id. at 208.
+On November 1, 1984, Wilder filed a formal grievance complaining that writing to Congressman Heftel was not a violation of the probation condition because he had a constitutional right to write to a legislator. On the same day, Tanouye gave Wilder a written warning that Wilder’s letter to Congressman Heftel “without first attempting to resolve your complaint informally with staff’ violated a condition of the three-month probation and that if Wilder should fail to correct his conduct and abide by the probation conditions, Wilder would subject himself “to further disciplinary action which may include an increase in custody and/or a change in housing.” Id. at 19.
+On November 7, 1984, Wilder filed a pro se complaint against Tanouye “in his individual and official capacity.” Id. at 2. The complaint alleged that Tanouye, while acting “under color of Hawaii law,” violated Wilder’s “First and Fourteenth Amendment rights guaranteed by the [United States] Constitution,” as well as the Hawaii Constitution. Id. at 2, 6. Wilder sought declaratory and injunctive relief and compensatory and punitive damages.
+Tanouye’s answer interposed affirmative defenses of qualified immunity and the doctrine of sovereign immunity.
+On November 26, 1986, Tanouye moved for summary judgment. Tanouye’s affidavit attached to the motion stated, inter alia, as follows:
+10. The [November 1,1984] “warning” mistakenly referred to “further disciplinary action” when it should have referred to “further administrative action;” inmates are not subject to disciplinary sanctions as a result of exercising their rights either to submit grievances or to petition the courts or public officials;
+11. When your affiant’s error became apparent to him, he issued a memorandum dated November 9, 1984, in which he informed Wilder as follows: “This is to inform you that the written warning to you dated November 1, 1984, is rescinded. Copies of the warning will be removed from the facility and module files[;]” . . . The memorandum was personally delivered to the Unit Team Manager of Wilder’s living unit;
+12. All copies of the “warning” have been removed from institutional files;
+13. Because of Wilder’s express rejection of the agreement [probation terms], your affiant concluded that Wilder might best be housed in quarters supervised by different staff;
+14. On or about November 13, 1984 Module 19 agreed to accept him and he was transferred there on that date[.]
+Record at 163. On January 9, 1987, Wilder filed his memorandum of law, affidavit, and exhibits in opposition to Tanouye’s motion.
+On April 7, 1987, the lower court granted the motion for summary judgment, and Wilder appealed.
+QUESTIONS PRESENTED
+We will discuss the issues on appeal in the following order:
+I.Did Wilder state a claim under 42 U.S.C. § 1983 (1982)? Yes.
+II.Was Tanouye entitled to a summary judgment on grounds of mootness? No.
+III. Were there any genuine issues of material fact regarding Wilder’s § 1983 claim based on an alleged deprivation of his First Amendment rights? Yes.
+IV. Was Tanouye entitled to a judgment as a matter of law on his qualified immunity defense? No.
+I. 42 U.S.C. § 1983 CLAIM
+The United States Supreme Court has stated:
+By the plain terms of [42 U.S.C.] § 1983, two — and only two — allegations are required to state a cause of action under that statute. First, the plaintiff must allege that some person has deprived him of a federal right. Second, he must allege that the person who has deprived him of that right acted under color of state or territorial law.
+Gomez v. Toledo, 446 U.S. 635, 640, 100 S. Ct. 1920, 1923, 64 L. Ed. 2d 572, 577 (1980) (citation omitted). State courts have concurrent jurisdiction over a § 1983 claim. See Makanui v. Department of Educ., 6 Haw. App. 397, 403, 721 P.2d 165, 170 (1986).
+Although Wilder’s complaint does not mention 42 U.S.C. § 1983, it alleges that Tanouye, acting under the “color of Hawaii law,” deprived him of his First and Fourteenth Amendment rights under the United States Constitution. Consequently, we will treat Wilder’s claim as a § 1983 claim.
+II. MOOTNESS
+Citing Wong v. Board of Regents, Univ. of Hawaii, 62 Haw. 391, 616 P.2d 201 (1980), Tanouye contends that the issues raised by Wilder “are moot and need not be addressed.” He claims that the written warning was rescinded and removed from Wilder’s institutional files, Wilder was not disciplined, and Wilder was transferred out of module 3 under Tanouye’s supervision to another module. Tanouye therefore concludes that all issues have been mooted.
+Unlike in Wong, supra, where the plaintiff sought injunctive and declaratory relief only, in this case Wilder sought compensatory and punitive damages in addition to injunctive and declaratory relief. Wilder’s claim for money damages remains viable and is not moot, even though his claim for injunctive and declaratory relief may be moot. See Allen v. Board of Pardons, 792 F.2d 1404, 1408 n.2 (9th Cir. 1986); Kincaid v. Duckworth, 689 F.2d 702, 703 n.2 (7th Cir. 1982); Mawhinney v. Henderson, 542 F.2d 1, 2 (2d Cir. 1976).
+Thus, if the lower court granted the summary judgment on grounds of mootness, the court erred.
+II. § 1983 CLAIM UNDER FIRST AMENDMENT
+Prison inmates retain First Amendment rights which do not conflict with legitimate penal objectives. See Pell v. Procunier, 417 U.S. 817, 94 S. Ct. 2800, 41 L. Ed. 2d 495 (1974); Procunier v. Martinez, 416 U.S. 396, 94 S. Ct. 1800, 40 L. Ed. 2d 224 (1974); Davidson v. Scully, 694 F.2d 50 (2d Cir. 1982). Prison officials may not retaliate for prisoners’ exercise of permissible First Amendment freedoms. See Bridges v. Russell, 757 F.2d 1155 (11th Cir. 1985). Also, when a prison policy is established setting the boundaries of the exercise of a First Amendment right, it becomes a liberty interest protected by the due process clause. See Spruytte v. Walters, 753 F.2d 498 (6th Cir. 1985).
+Wilder claims that Tanouye threatened him with disciplinary action for exercising his First Amendment right to write to his congressman and that, subsequently, he was in fact transferred out of a module supervised by Tanouye to another module. Moreover, Wilder states that he had the right to communicate with Congressman Heftel by virtue of § 17-203-2(b)(10) of the rules applicable to the Corrections Division of the Department of Social Services and Housing which provided:
+(b) Each inmate and ward may correspond via privileged mail with the following:
+* * *
+(10) Elected state or federal officials.
+Tanouye counters by arguing that based on the record there was no retaliation against Wilder. Tanouye contends that (1) the only consequence was that Wilder “was transferred from one module to another in the same facility”; (2) the transfer occurred after Wilder had filed his complaint and was not an issue below; and (3) his threat of disciplinary action had been effectively rescinded. In our view, these contentions do not negate the existence of genuine issues of material fact in the record nor permit a judgment for Tanouye as a matter of law.
+First, Tanouye seems to contend that because Wilder’s transfer was from one module to another in the same facility, it did not involve a protected liberty interest, see Wilder v. Tanouye, 7 Haw. App. _, 753, P.2d 816 (1988), and therefore Wilder had no legitimate § 1983 claim. However, Wilder does not assert a procedural due process right under the Fourteenth Amendment. He asserts a substantive claim pursuant to the First Amendment as made applicable to the states by the Fourteenth Amendment. See Bridges v. Russell, supra.
+Second, Tanouye’s contention that Wilder’s transfer occurred after the filing of the complaint and was not an issue below is not entirely correct. It is true that Wilder filed his complaint on November 7, 1984, and his transfer occurred on November 13, 1984. However, Tanouye included this post-complaint fact in his affidavit supporting his motion for summary judgment and made it an issue below.
+Third, rescission of the “warning” letter and removal of the copies of the letter from Wilder’s institutional files — all of which occurred subsequently to the filing of Wilder’s complaint — do not by themselves signify that there was no retaliation. The threat of disciplinary action itself may constitute retaliation. Thus, whether Tanouye’s claim of “mistake” in referring to “further disciplinary action” rather than “further administrative action” was true is crucial. Also, this involves a question of Tanouye’s intent, which is not conducive to summary determination. See Bishop Trust Co. v. Central Union Church of Honolulu, 3 Haw. App. 624, 656 P.2d 1353 (1983).
+Viewing the evidence in the record and the inferences to be drawn therefrom in the light most favorable to Wilder, as we must, see Fernandes v. Tenbruggencate, 65 Haw. 226, 228, 649 P.2d 1144, 1147 (1982); Kang v. Charles Pankow Assoc., 5 Haw. App. 1, 5, 675 P.2d 803, 806 (1984), we hold that there are genuine issues of material fact regarding Wilder’s § 1983 claim. Therefore, the granting of summary judgment was improper.
+IV. QUALIFIED IMMUNITY
+Tanouye argues that as a government official he is protected by qualified immunity. He bases this defense on the fact that “as soon as he learned that it was a mistake to threaten disciplinary action, he rescinded his warning.” From this he concludes that he “acted without malice[.]” We hold, however, that this did not entitle him to a judgment as a matter of law.
+John P. Wilder, plaintiff-appellant, pro se, on the briefs.
+Glenn S. Grayson, Deputy Attorney General, on the brief for defendant-appellee.
+Immunity from liability under 42 U.S.C. § 1983 is a question of federal law, not of state law. See Makanui, 6 Haw. App. at 406, 721 P.2d at 171. Executive officials, in general, have qualified, or good-faith immunity. See Harlow v. Fitzgerald, 457 U.S. 800, 807, 102 S. Ct. 2727, 2732, 73 L. Ed. 2d 396, 403 (1982). Whether governmental officials are entitled to qualified immunity is based upon “an objective standard of bad faith and is not based upon subjective proof of malice or bad motive.” Makanui, 6 Haw. App. at 407, 721 P.2d at 172 (citing Harlow, supra). In a § 1983 action, the qualified immunity defense “would be unavailing to [officials] if the constitutional right allegedly infringed by them was clearly established at the time of their challenged conduct, if they knew or should have known of that right, and if they knew or should have known that their conduct violated the constitutional norm.” Procunier v. Navarette, 434 U.S. 555, 562, 98 S. Ct. 855, 860, 55 L. Ed. 2d 24, 31 (1978).
+Here, § 17-203-2(b)(10) of the Corrections Division’s rules expressly gave an OCCC inmate the right to correspond by privileged mail with an elected federal official. At the time Tanouye wrote his “warning” letter, (1) the constitutional right of an inmate to write to his legislator was clearly established, (2) Tanouye should have known of this right, and (3) Tanouye should have known that his threat of disciplinary action against Wilder for exercising this right violated the constitutional norm. Consequently, the defense of qualified immunity was not available to Tanouye.
+Accordingly, Tanouye was not entitled to a judgment on qualified immunity grounds as a matter of law.
+Judgment vacated and case remanded for further proceedings consistent with this opinion.
+Between the date of the filing of the complaint and November 26, 1986, when the instant motion for summary judgment was filed, defendant Harry Tanouye (Tanouye) filed a motion to dismiss or, in the alternative, for summary judgment. The lower court granted that motion on September 12, 1985. Upon appeal, this court vacated the lower court’s order and remanded the case on July 18, 1986. Wilder v. Tanouye, No. 10915 (Haw. App. July 18, 1986) (mem.).
+The “Order Granting Defendants’ Motion for Summary Judgment” filed on April 7, 1987, merely stated “that there are no genuine issues of material facts and that defendant is entitled to judgment as a matter of law[.]” Record at 235.
+Although Tanouye interposed the doctrine of sovereign immunity as an affirmative defense, he did not assert this defense in his summary judgment motion. Therefore, that defense is not an issue on appeal. Moreover, it is questionable whether that defense is available to Tanouye. See Makanui v. Department of Educ., 6 Haw. App. 397, 406-07, 721 P.2d 165, 171-72 (1986).
+42 U.S.C. § 1983 (1982) provides in part:
+Every person who, under the color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in any action at law, suit in equity, or other proper proceeding for redress.
+Legislators in their legislative functions, judges in their judicial functions, certain officials such as prosecutors and similar officials, and executive officers engaged in adjudicative functions have absolute immunity. Harlow v. Fitzgerald, 457 U.S. 800, 807, 102 S. Ct. 2727, 2732, 73 L. Ed. 2d 396, 403 (1982).
