@@ -1,0 +1,111 @@
+---
+court: "Hawaii Intermediate Court of Appeals"
+docket: "NO. 10851"
+decided: "1986-07-14"
+citations: ["6 Haw. App. 397"]
+reporter: "haw-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BURNS, C.J., HEEN AND TANAKA. JJ."]
+parties: ["BARBARA J. MAKANUI, individually and on behalf of her minor son ABRAHAM KAHIWAHIWA MAKANUI (aka HIWA MAKANUI) born September 11, 1967, Plaintiffs-Appellants, v. DEPARTMENT OF EDUCATION, STATE OF HAWAII; GEORGE R. ARIYOSHI, GOVERNOR, STATE OF HAWAII; FRANCIS HATANAKA, SUPERINTENDENT, DEPARTMENT OF EDUCATION, STATE OF HAWAII; MITSUGI NAKASHIMA, P.H.D., DISTRICT SUPERINTENDENT, DEPARTMENT OF EDUCATION, STATE OF HAWAII, DISTRICT OF KAUAI; RODNEY HUSTEAD, PRINCIPAL, WAIMEA HIGH SCHOOL, COUNTY OF KAUAI, INDIVIDUALLY AND IN HIS OFFICIAL CAPACITY; BASILIO FUERTES, JR., ATHLETIC DIRECTOR, WAIMEA HIGH SCHOOL, COUNTY OF KAUAI, INDIVIDUALLY AND IN HIS OFFICIAL CAPACITY; PATRICK PEREIRA, DEPUTY ATHLETIC DIRECTOR, WAIMEA HIGH SCHOOL, COUNTY OF KAUAI, INDIVIDUALLY AND IN HIS OFFICIAL CAPACITY; DAVID WALKER, COACH, TRACK TEAM, WAIMEA HIGH SCHOOL, COUNTY OF KAUAI; ED KIYUNA, EXECUTIVE DIRECTOR, HAWAII HIGH SCHOOL ATHLETIC ASSOCIATION, INDIVIDUALLY AND IN HIS OFFICIAL CAPACITY; HAWAII HIGH SCHOOL ATHLETIC ASSOCIATION; WARREN MIZUTANI, EXECUTIVE SECRETARY, KAUAI INTERSCHOLASTIC FEDERATION; KAUAI INTERSCHOLASTIC FEDERATION, Defendants-Appellees"]
+source_url: "https://static.case.law/haw-app/6/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5630068
+cites_cases: ["1 Haw. App. 379", "105 S.Ct. 3099", "11 L.Ed.2d 659", "300 F.2d 24", "321 U.S. 1", "321 U.S. 804", "324 F.2d 450", "365 U.S. 167", "371 N.W.2d 876", "376 U.S. 939", "416 U.S. 232", "417 F.Supp. 885", "42 U.S.C. § 1983", "420 U.S. 308", "422 F.2d 1000", "430 F.2d 1155", "434 U.S. 555", "436 U.S. 658", "440 U.S. 332", "444 U.S. 277", "446 U.S. 635", "448 A.2d 717", "453 F.Supp. 150", "457 U.S. 800", "470 A.2d 645", "504 Pa. 92", "570 F.2d 320", "604 P.2d 1198", "61 Haw. 369", "616 P.2d 201", "62 Haw. 391", "620 P.2d 733", "64 S.Ct. 778", "660 F.2d 1345", "693 F.2d 911", "703 F.2d 357", "745 F.2d 560", "84 S.Ct. 794", "88 L.Ed. 1090"]
+---
+
+# Makanui v. Department of Education
+
+## Majority (BURNS, CJ.)
+
+OPINION OF THE COURT BY
+BURNS, CJ.
+Plaintiffs Barbara J. Makanui (Barbara) and Abraham Kahiwahiwa Makanui (Abraham) appeal the July 26, 1985 summary judgment dismissing their case.
+Although, as evidenced by the caption, the original pleading filed by plaintiffs is confusing, we construe it as being (1) an administrative appeal and (2) a complaint for declaratory and injunctive relief and damages.
+We vacate the July 26, 1985 summary judgment and decide this appeal as if the dismissal was based on a Rule 12(b)(6), Hawaii Rules of Civil Procedure (HRCP) (1981), motion. Under Rule 12(b)(6), we affirm the dismissal of (1) plaintiffs’ administrative appeal; (2) plaintiffs’ complaint for declaratory and injunctive relief; and (3) plaintiffs’ complaint for damages against some of the defendants. We reverse the dismissal of plaintiffs’ complaint for damages against some of the defendants.
+The dispositive issues and our answers are as follows:
+I. Did the lower court reversibly err in hearing and deciding defendants’ June 6, 1985 Rule 12(b)(6) motion to dismiss as a motion for summary judgment while precluding plaintiffs from deposing certain defendants? Yes.
+II. Are plaintiffs’ administrative appeal and complaint for declaratory and injunctive relief subject to dismissal for mootness? Yes.
+III. Have plaintiffs alleged a cognizable claim for damages for violation of Abraham’s federal constitutional rights? Yes.
+IV. Are any of the defendants absolutely or qualifiedly immune from plaintiffs’ federal damage claims for violation of Abraham’s federal constitutional rights? Yes.
+Abraham was 17 years of age and a Waimea High School (WHS) senior during the 1984-85 school year.
+On October 1, 1984 Abraham and his mother, Barbara, signed a document entitled “Athletic Rules and Policies” (agreement). The agreement appears to implement the desires or requirements of defendants WHS, Kauai Interscholastic Federation (KIF), and Hawaii High School Athletic Association (HHSAA). In relevant part the agreement states:
+It is an honor and a privilege for me to participate in athletic activities at Waimea High School. I realize that as an athlete, I am a member of a team. This means that sometimes it may be necessary for me to make personal sacrifices in the interest of the whole team. I further realize that as an athlete, I am a “public figure” whose conduct will be constantly under the observation of a “critical public.” Therefore, I hereby agree to obey the following general rules, the athletes’ code to conduct, and the training rules as set up by the athletes, the Waimea High School Athletic Department and the Hawaii Interscholastic Federation.
+I. GENERAL RULES
+*****
+F. I will conduct myself in an exemplary manner, both on and off the campus. * * *
+*****
+III. RULES AND POLICIES
+*****
+B. Athletes may be suspended from any team by the athletic director or by the coach for infractions of training rules, disrespect to coaches and other school officials, or for any other misbehavior warranting suspension. The principal is the only person that has the authority to drop any athlete from the team.
+C. The principal, upon the recommendation of the athletic director or coaches, may withhold from participation: (1) any athlete whose undesirable behavior or attitude may be detrimental to the team; (2) any athlete who has been arrested for a law violation.
+*****
+E. Nothing in this [sic] athletic rules and policies shall be construed as requiring proof beyond a reasonable doubt before suspension may be imposed.
+*****
+We have read the above general rules, athletes’ code of conduct, and the policies of the athletic department. We hereby agree to abide by the above rules and we fully understand that any infraction of these rules may result in suspension and/or expulsion from the school term.
+After school on April 18, 1985, Abraham set off fireworks in the WHS parking lot. After investigating the incident and reviewing Abraham’s prior WHS record, WHS officials (1) reported the incident to the Kauai Police Department which led to the arrest of Abraham; (2) suspended Abraham from school on April 22 and 23, 1985; and (3) declared Abraham ineligible for further participation on the WHS track team. Consequently, Abraham, who was potentially a state champion in the 1600- and 3200-meter events, was not allowed to participate in the Hawaii State Track Meet on May 4, 1985.
+Plaintiffs’ request for a contested case hearing was denied by Kauai Department of Education officials. Although plaintiffs were advised that they could seek relief from the State Superintendent and the Board of Education, they did not.
+On April 30, 1985 plaintiffs filed in circuit court a notice of appeal under Hawaii Revised Statutes (HRS) Chapter 91 and Rule 72, HRCP, and a complaint for declaratory and injunctive relief and damages for violation of constitutional rights.
+On June 6, 1985 defendants filed a motion under Rule 12(b)(6) to dismiss plaintiffs’ complaint for failure to state a claim upon which relief can be granted or for clearly indicating on its face the existence of affirmative defenses. 5 Wright & Miller, Federal Practice and Procedure: Civil § 1357 (1969).
+On July 1, 1985 plaintiffs deposed Jon Derby, the vice principal of WHS. On July 3, 1985 plaintiffs noticed the depositions of Basilio Fuertes, Jr., WHS athletic director; David Walker, WHS track team coach; and Dr. Mitsugi Nakashima, district superintendent for Kauai schools, to be taken on July 10, 1985. On July 5,1985 plaintiffs deposed State Senator Neil Abercrombie.
+On July 9, 1985 defendants obtained an ex parte protective order precluding plaintiffs from deposing Basilio Fuertes, Jr., Rodney Hustead, David Walker, and Dr. Mitsugi Nakashima on July 10, 1985. The order was granted based on the following representations by defendants’ counsel:
+4. That [defendants] have filed a Motion to Dismiss which is scheduled for hearing on Thursday, July 11, 1985;
+5. That because [defendants’] motion is challenging the Court’s subject matter jurisdiction, [defendants] believe that the case will be resolved on the law and not the facts;
+6. That [defendants] believe that no amount of fact finding will assist [plaintiffs] in their action since this case should be resolved on the law[.]
+In relevant part the July 9, 1985 protective order stated: “In the event that [defendants’] Motion To Dismiss scheduled for hearing on July 11, 1985, not be granted, then [plaintiffs] may reschedule the depositions of the individuals.”
+Defendants’ June 6, 1985 Rule 12(b)(6) motion to dismiss was heard on July 11, 1985. As permitted by Rule 12(b), the motion was heard and decided as a motion for summary judgment under Rule 56, HRCP, notwithstanding plaintiffs’ complaint about the restrictiveness of the protective order.
+On July 26, 1985 the lower court dismissed plaintiffs’ complaint.
+I.
+When a protective order precluding plaintiffs from deposing potentially relevant witnesses is issued in anticipation of and subject to court action on defendants’ Rule 12(b)(6) motion to dismiss, basic fairness and Rule 56(f) require that before the Rule 12(b)(6) motion to dismiss is heard and decided as a Rule 56 motion for summary judgment, the protective order must be lifted unless the plaintiffs agree otherwise. See 10A Wright-Miller-Kane, Federal Practice and Procedure: Civil § 2741 (1983). Since the July 9, 1985 protective order was not lifted and plaintiffs did not agree otherwise, we vacate the summary judgment and decide this appeal as if the lower court dismissed Abraham’s complaint under Rule 12(b)(6).
+II.
+Plaintiffs contend that Chapter 19, Title 8, Subtitle 2, Part 1, Hawaii Administrative Rules, effective September 1, 1982, precludes enforcement of their October 1, 1984 agreement.
+Plaintiffs further contend that the validity and enforceability of their October 1, 1984 agreement is governed by HRS Chapter 91, the Hawaii Administrative Procedures Act.
+Since Abraham has graduated from WHS, both contentions raise moot issues. Moreover, in the context of this case, these issues do not sufficiently affect the public interest to warrant application of the exception to the general rule that appellate courts do not consider moot issues. Wong v. Board of Regents, 62 Haw. 391, 616 P.2d 201 (1980).
+III.
+A complaint should not be dismissed for failure to state a claim unless it appears beyond doubt that no relief can be granted under any set of facts that can be proved in support of its allegations. Giuliani v. Chuck, 1 Haw. App. 379, 620 P.2d 733 (1980). See Scheuer v. Rhodes, 416 U.S. 232, 94 S.Ct. 1683, 40 L.Ed.2d 90 (1974).
+Under this standard of review, plaintiffs have stated a cognizable claim for damages for violation of at least one of Abraham’s federal constitutional rights. Although plaintiffs have failed to allege a federal damage claim based on a violation of Abraham’s federal due process rights, their complaint sufficiently alleges a cognizable federal damage claim for violation of his federal equal protection rights.
+State courts have concurrent jurisdiction over federal damage claims under 42 U.S.C. § 1983 (1976). Martinez v. California, 444 U.S. 277, 283-84 n.7, 100 S.Ct. 553, 558, 62 L.Ed.2d 481, 488 (1980). Under § 1983, “only two — allegations are required to order to state a cause of action. First, the plaintiff must allege that some person has deprived him of a federal right. Second, he must allege that the person who has deprived him of that right acted under color of law. See Monroe v. Pape, 365 U.S. 167, 81 S.Ct. 473, 475, 5 L.Ed.2d 492 (1961).” Gomes v. Toledo, 446 U.S. 635, 640, 100 S.Ct. 1920, 1923, 64 L.Ed.2d 572, 577 (1980). See also York v. Story, 324 F.2d 450, 453 (9th Cir. 1963), cert. denied, 376 U.S. 939, 84 S.Ct. 794, 11 L.Ed.2d 659 (1964).
+Due Process
+The right to participate in interscholastic athletics is not a “liberty” or “property” interest entitled to protection under the due process clause. See, e.g., Rutledge v. Arizona Board of Regents, 660 F.2d 1345, 1352-53 (9th Cir. 1981); Mitchell v. Louisiana High School Athletic Association, 430 F.2d 1155, 1158 (5th Cir. 1970); Colorado Seminary (University of Denver) v. NCAA, 417 F.Supp. 885, 896 (D.Colo. 1976), aff’d, 570 F.2d 320 (10th Cir. 1978). Neither did the denial of this right constitute a “grievous loss” for purposes of fixing the substantive content of actions cognizable under that provision. Rutledge, 660 F.2d at 1353.
+Equal Protection
+With respect to the equal protection claim, Abraham has met the requirements for a § 1983 claim under Gomez, supra, by alleging in relevant part as follows:
+I. INTRODUCTION
+1. This action is brought against the above-named Defendants * * * who have illegally and without properfoundation [sic], attempted to prevent HIWA MAKANUI from running in the State track meet put on by HAWAII HIGH SCHOOL ATHLETIC ASSOCIATION, which meet is scheduled for May 4, 1985, by cruelly and unusually punishing him for a pyrotechnics violation which occurred on school campus, after school hours, and by dismissing him from the Waimea High School Big Blue Mean Machine trach [sic] team, in carrying out unauthorized discipline in violation of Chapter 91, H.R.S., Chapter and Rules of the D.O.E., Rule 19, the Hawaii State Constitution, the Constitution of the United States, and all concepts of fair play, due process, equal protection, cruel and unusual punishment, interference of the State government in parental-minor discipline[.] * * *
+III. PARTIES
+* * * The Hawaii High School Athletic Association and Kauai Interscholastic Federation offices [sic] and officials are charged, by delegation from the State of Hawaii, D.O.E. thereto, with the athletice [sic] rule and events and scholarship programs in the State of Hawaii and the County of Kauai.
+* * *
+In choosing to enforce cruel and unusual punishment against HIWA MAKANUI, rather than just enforcing the CHAPTER 19 RULES, which are mandatory in this state, and in utilizing rules of HHSAAC [sic] and KIF which are not promulgated in accordance with due process and the laws of this country and this State, the D.O.E. and school officials have invidiously discriminated against HIWA MAKANUI and his single-parent mother, IN VIOLATION OF ALL THAT IS CONSTITUTIONAL, more particularly as to cruel and unusual punishment, the first Amendment, as well as the 4th, 5th and 14th amendments with a lack of equal protection under the law. Their actions are racial discriminatory, sexually discriminatory, marital status discriminatory, age discriminatory, and without any merit. Their findings are clearly erroneous, and malicious.
+See also Snowden v. Hughes, 321 U.S. 1, 64 S.Ct. 397, 88 L.Ed. 497, reh’g denied, 321 U.S. 804, 64 S.Ct. 778, 88 L.Ed. 1090 (1944); Cohen v. Norris, 300 F.2d 24 (9th Cir. 1962). Moreover, the allegations with respect to WHS and possibly KIF and HHSAA constitute action taken under color of law. See Jones v. Oklahoma Secondary Sch. Activities Ass'n, 453 F.Supp. 150 (D. Okl. 1977); Brown v. Strickler, 422 F.2d 1000 (6th Cir. 1970).
+IV.
+Immunity Under 42 U.S.C. § 1983 (1976)
+Immunity in state court from § 1983 damages liability is a question of federal law, and conduct which is cognizable under that provision cannot be immunized by state law. Martinez v. California, 444 U.S. 277, 284 n.8, 100 S.Ct. 553, 558, 62 L.Ed.2d 481, 488 (1980). See also Karchesfske v. Dept. of Mental Health, 371 N.W.2d 876, 880-81 (Mich. App. 1985). Under § 1983, a state cannot be sued unless it has consented to be sued or has otherwise waived its sovereign immunity. See Quern v. Jordan, 440 U.S. 332, 341, 99 S.Ct. 1139, 1145, 59 L.Ed.2d 358, 367 (1979) (in enacting § 1983, Congress did not intend to override the traditional sovereign immunity of the states); 15 Am. Jur. 2d Civil Rights § 268 (1985).
+Hawaii has not waived its sovereign immunity from § 1983 damages liability. HRS Chapter 662.
+A suit against a state’s agencies or against its officers or agents in their official capacities is a suit against the state and not against its officers or agents in their individual capacities. Kentucky v. Graham, __ U.S. __, 105 S.Ct. 3099, 87 L.Ed.2d 114 (1985). Consequently, Hawaii, its agencies, and its officers and agents in their official capacities are immune from and cannot be held liable for claims for money damages for violations of constitutional rights under § 1983. See Kapil v. Association of Pennsylvania State College & University Faculties, 68 Pa. Cmwlth. 287, 448 A.2d 717 (1982), rev’d on other grounds, 504 Pa. 92, 470 A.2d 482 (1983) (§ 1983 damage action brought in state court is barred to extent state has preserved its traditional immunities). See also Tulio v. Commonwealth of Pennsylvania, State Horse Racing Commission, 79 Pa. Cmwlth. 305, 470 A.2d 645, 648 (1984); Karchefske v. Dept. of Mental Health, supra; Quern v. Jordan, supra. Moreover, § 1983 does not support a claim based on a respondeat superior theory of liability. Monell v. New York City Department of Social Services, 436 U.S. 658, 670-71, 98 S.Ct. 2018, 2037-38, 56 L.Ed.2d 611, 638 (1978).
+Under § 1983, state officials may be sued in their personal or individual capacities. Kentucky v. Graham, supra. Such state officials, not acting in a judicial or quasi-judicial capacity, are entitled to qualified immunity from damage awards for violation of the constitutional rights of students. Wood v. Strickland, 420 U.S. 308, 313-22, 95 S.Ct. 992, 996-1000, 43 L.Ed.2d 214, 220-225 (1975) (school officials); Scheuer v. Rhodes, 416 U.S. 232, 238-49, 94 S.Ct. 1683, 1687-92, 40 L.Ed.2d 90 (1974) (officials acting in executive capacity). See Fujiwara v. Clark, 703 F.2d 357 (9th Cir. 1983); Richardson v. Koshiba, 693 F.2d 911 (9th Cir. 1982). In the specific context of school discipline, a local official acts in bad faith and is not immune from liability for damages under § 1983 (1) if the constitutional right allegedly infringed by them was clearly established at the time of their challenged conduct; (2) if they knew or should have known of that right; and (3) if they knew or should have known that their conduct violated the constitutional norm. Procunier v. Navarette, 434 U.S. 555, 562, 98 S.Ct. 855, 860, 55 L.Ed.2d 24, 31 (1978); Wood v. Strickland, supra. See Fujiwara v. Clark, 703 F.2d 357 (9th Cir. 1983). This inquiry is determined by an objective standard of bad faith and is not based upon subjective proof of malice or bad motive. Harlow v. Fitzgerald, 457 U.S. 800, 102 S.Ct. 2727, 73 L.Ed.2d 396 (1982) (rejecting subjective standard of bad faith established in Wood). See Fujiwara v. Clark, 703 F.2d at 359 n.3; Cinevision Corp. v. City of Burbank, 745 F.2d 560, 578 n.24 (9th Cir. 1984).
+V.
+Accordingly, we vacate the July 26, 1985 summary judgment but affirm the Rule 12(b)(6) (1) dismissal of plaintiffs’ administrative appeal; (2) dismissal of plaintiffs’ complaint for declaratory and injunctive relief; and (3) dismissal of plaintiffs’ complaint for § 1983 damages against the following defendants:
+Depart of Education, State of Hawaii;
+George R. Ariyoshi, Governor, State of Hawaii;
+Francis Hatanaka, Superintendent, Department of Education, State of Hawaii;
+Mitsugi Nakashima, Ph.D., District Superintendent, Department of Education, State of Hawaii, District of Kauai;
+Rodney Hustead, Principal, Waimea High School, County of Kauai, in his official capacity;
+Basilio Fuertes, Jr., Athletic Director, Waimea High School, County of Kauai, in his official capacity;
+E. Courtney Kahr for plaintiffs-appellants.
+June Y. /. Ito, Deputy Attorney General, for defendants-appellees.
+Patrick Pereira, Deputy Athletic Director, Waimea High School, County of Kauai, in his official capacity;
+David Walker, Coach, Track Team, Waimea High School, County of Kauai;
+Warren Mizutani, Executive Secretary, Kauai Interscholastic Federation.
+We remand for further proceedings consistent with this opinion with respect to plaintiffs’ complaint for § 1983 damages against the following defendants:
+Rodney Hustead, Principal, Waimea High School School, County of Kauai, individually;
+Basilio Fuertes, Jr., Athletic Director, Waimea High School, County of Kauai, individually;
+Patrick Pereira, Deputy Athletic Director, Waimea High School, County of Kauai, individually;
+Ed Kiyuna, Executive Director, Hawaii High School Athletic Association, individually;.
+Hawaii High School Athletic Association;
+Kauai Interscholastic Federation.
+Sua sponie, we question but do not decide what standing Barbara has to sue as an individual. Clearly, however, since Abraham became an adult on September 11, 1985, .ree HRS § 571-1 (1976), Barbarais no longer authorized to maintain the suit for Abraham in a representative capacity. 6 Wright & Miller, Federal Practice and Procedure: Civil § 1570 (1971).
+We do not decide whether Hawaii recognizes a cause of action for damages for deprivation of rights under the state’s constitution or laws. Figueroa v. State, 61 Haw. 369, 604 P.2d 1198 (1979), did not decide this issue.
+We do not decide whether plaintiffs’ complaint sufficiently alleges a violation of any of Abraham’s other federal constitutional rights.
+Section 1983 provides:
+“Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory, or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress.”
+When counsel signed the complaint, she thereby certified that there was good ground to support it. Rule 11, HRCP.
+It is not clear whether the Hawaii High School Athletic Association and the Kauai Interscholastic Federation are state agencies.
