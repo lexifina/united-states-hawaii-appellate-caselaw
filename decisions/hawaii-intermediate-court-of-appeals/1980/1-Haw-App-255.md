@@ -2,7 +2,7 @@
 court: "Hawaii Intermediate Court of Appeals"
 docket: "NO. 7412"
 decided: "1980-10-15"
-citations: ["1 Haw. App. 255", "1 Haw. App. 660"]
+citations: ["1 Haw. App. 255"]
 reporter: "haw-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
